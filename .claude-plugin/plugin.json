@@ -1,0 +1,1 @@
+{ "name": "usage-glance", "version": "0.1.0", "description": "Pane showing session and weekly usage with pace and prompt-cache warmth", "types": "./types/index.d.ts" }

@@ -1,0 +1,5 @@
+{
+  "name": "usage-glance",
+  "owner": { "name": "devonsa55" },
+  "plugins": [{ "name": "usage-glance", "source": "./" }]
+}
